@@ -9,6 +9,7 @@ body{
   background-image: url(https://c.tenor.com/Q_zmek836hgAAAAC/tenor.gif);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .back{
@@ -95,7 +96,7 @@ a.click{
   color: rgb(144, 144, 241);
   font-family: "Protest Revolution", cursive ;
   font-weight: 700;
-  font-size: 35px;
+  font-size: 40px;
   list-style-type: none;
   position: absolute;
   display: inline-block;
