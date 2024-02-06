@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Love+Light&display=swap');
+
 
 body{
   margin: 0;
@@ -93,7 +93,7 @@ body{
 a.click{
   text-decoration: none;
   color: red;
-  font-family:  "Love Light", "Protest Revolution", cursive ;
+  font-family: "Protest Revolution", cursive ;
   font-weight: 700;
   font-size: 35px;
   list-style-type: none;
