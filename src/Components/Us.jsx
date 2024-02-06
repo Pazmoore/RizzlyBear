@@ -30,7 +30,7 @@ const Us = () => {
         <Row>
           <Col>
             <div className="state">
-              <h1>HOW I WANT US LOVE TO BE FOREVER</h1>
+              <h1>HOW I WANT OUR LOVE TO BE FOREVER</h1>
 
               <Carousel responsive={responsive} infinite={true} className="us">
                 <div className="red">
