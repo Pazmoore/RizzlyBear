@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Love+Light&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background: #fff;
+  background-image: url(https://c.tenor.com/Q_zmek836hgAAAAC/tenor.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.back{
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background: linear-gradient(45deg, rgb(230, 206, 236), rgb(249, 139, 139));
+  width: 590px;
+  height: 600px;
+  margin: 50px auto;
+  border-radius: 30px;
+}
+
+
+.title h1{
+  color: rgb(135, 23, 23);
+  font-family: "Protest Revolution", cursive;
+  font-weight: 700;
+  font-style: normal;
+  padding-top: 50px;
+  position: relative;
+  font-size: 35px;
+  left: 45px;
+  top: 5px;
+}
+
+.title h1 span{
+  position: relative;
+  top: 60px;
+  left: -310px;
+}
+
+
+.title img{
+  position: relative;
+  bottom: -10px;
+  left: 180px;
+}
+
+.title .btn{
+  position: relative;
+  bottom: 40px;
+  left: 260px;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 5px 5px 5px 5px;
+  font-family: "Protest Revolution", cursive;
+  font-weight: 600;
+  font-size: 50px;
+  color: red;
+}
+
+  
+.state{
+  background: linear-gradient(45deg, rgb(230, 206, 236), rgb(249, 139, 139));
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: 60px;
+}
+
+.state h1 {
+  font-size: 32px;
+  font-family:"Protest Revolution", cursive ;
+  color: rgb(237, 25, 32);
+  font-weight: 700;
+}
+
+.us {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.us img {
+  width:98%;
+  height: 150px;
+  margin: 0 auto 15px auto;
+  border-radius: 30px;
+}
+
+a.click{
+  text-decoration: none;
+  color: red;
+  font-family:  "Love Light", "Protest Revolution", cursive ;
+  font-weight: 700;
+  font-size: 35px;
+  list-style-type: none;
+  position: absolute;
+  display: inline-block;
+  top: 400px;
+  left: 30px;
+}
+
+li::marker{
+  color: #fff;
+}
+
