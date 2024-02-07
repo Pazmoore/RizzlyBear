@@ -25,55 +25,62 @@ const Us = () => {
   };
 
   return (
-    <div>
+    <div className="back">
       <Container>
         <Row>
           <Col>
             <div className="state">
-              <h1>HOW I WANT OUR LOVE TO BE FOREVER</h1>
+              <h1>HOW I WANT 0UR LOVE TO BE EVERYDAY OF THE WEEK</h1>
 
               <Carousel responsive={responsive} infinite={true} className="us">
-                <div className="red">
+                <div className="item">
                   <img
                     src={"https://c.tenor.com/gor2UjZoXe4AAAAd/tenor.gif"}
                     alt="Image"
                   />
+                  <h3>Us On Monday</h3>
                 </div>
                 <div className="item">
                   <img
                     src={"https://c.tenor.com/gRnRdgBucm8AAAAC/tenor.gif"}
                     alt="Image"
                   />
+                  <h3>Us On Tuesday</h3>
                 </div>
                 <div className="item">
                   <img
                     src={"https://c.tenor.com/jVkgUJg1PtMAAAAd/tenor.gif"}
                     alt="Image"
                   />
+                  <h3>Us On Wednesday</h3>
                 </div>
                 <div className="item">
                   <img
                     src={"https://c.tenor.com/OC-3Ef-3sMsAAAAd/tenor.gif"}
                     alt="Image"
                   />
+                  <h3>Us On Thursday</h3>
                 </div>
                 <div className="item">
                   <img
                     src={"https://c.tenor.com/k4PnuXRh2KwAAAAd/tenor.gif"}
                     alt="Image"
                   />
+                  <h3>Us On Friday</h3>
                 </div>
                 <div className="item">
                   <img
                     src={"https://c.tenor.com/5J7t72CTt18AAAAd/tenor.gif"}
                     alt="Image"
                   />
+                  <h3>Us On Saturday</h3>
                 </div>
                 <div className="item">
                   <img
                     src={"https://c.tenor.com/h2hGNnJQgScAAAAd/tenor.gif"}
                     alt="Image"
                   />
+                  <h3>Us On Sunday</h3>
                 </div>
               </Carousel>
             </div>
