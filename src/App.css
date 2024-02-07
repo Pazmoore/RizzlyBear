@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Love+Light&display=swap');
 
 body{
   margin: 0;
@@ -73,11 +73,18 @@ body{
 
 .state h1 {
   font-size: 32px;
+  margin-bottom: 100px;
   font-family:"Protest Revolution", cursive ;
   color: rgb(237, 25, 32);
   font-weight: 700;
+  line-height: 55px;
 }
 
+.item h3{
+  font-family:"Protest Revolution", cursive ;
+  font-size: 20px;
+  color: rgb(60, 88, 246);
+}
 .us {
   width: 100%;
   margin: 0 auto;
@@ -92,7 +99,7 @@ body{
 }
 
 a.click{
-  text-decoration: underline;
+  text-decoration: none;
   color: rgb(144, 144, 241);
   font-family: "Protest Revolution", cursive ;
   font-weight: 700;
